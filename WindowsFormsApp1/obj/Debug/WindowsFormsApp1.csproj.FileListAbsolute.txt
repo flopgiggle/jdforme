@@ -1,0 +1,184 @@
+c:\users\administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WebDriver.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WebDriver.xml
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Awesomium.Core.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Awesomium.Windows.Forms.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Awesomium.Core.xml
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Awesomium.Windows.Forms.xml
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\awesomium.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\icudt.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\avcodec-53.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\avformat-53.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\avutil-51.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\libEGL.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\libGLESv2.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\awesomium_process
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\inspector.pak
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\xinput9_1_0.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pdf_js.pak
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CsQuery.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CsQuery.xml
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MsieJavaScriptEngine.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MsieJavaScriptEngine.xml
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru-ru\MsieJavaScriptEngine.resources.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\jd_login.js
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FluentScheduler.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FluentScheduler.pdb
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FluentScheduler.xml
+C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\jd_login.js
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\Awesomium.Core.dll
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\Awesomium.Windows.Forms.dll
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\CsQuery.dll
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\FluentScheduler.dll
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\MsieJavaScriptEngine.dll
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\WebDriver.dll
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\Awesomium.Core.xml
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\Awesomium.Windows.Forms.xml
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\CsQuery.xml
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\FluentScheduler.pdb
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\FluentScheduler.xml
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\MsieJavaScriptEngine.xml
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\WebDriver.xml
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\ru-ru\MsieJavaScriptEngine.resources.dll
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\awesomium.dll
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\icudt.dll
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\avcodec-53.dll
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\avformat-53.dll
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\avutil-51.dll
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\libEGL.dll
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\libGLESv2.dll
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\awesomium_process
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\inspector.pak
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\xinput9_1_0.dll
+C:\Users\Administrator\Desktop\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\pdf_js.pak
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\jd_login.js
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\Awesomium.Core.dll
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\Awesomium.Windows.Forms.dll
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\CsQuery.dll
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\FluentScheduler.dll
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\MsieJavaScriptEngine.dll
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\WebDriver.dll
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\Awesomium.Core.xml
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\Awesomium.Windows.Forms.xml
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\CsQuery.xml
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\FluentScheduler.pdb
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\FluentScheduler.xml
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\MsieJavaScriptEngine.xml
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\WebDriver.xml
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\ru-ru\MsieJavaScriptEngine.resources.dll
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\awesomium.dll
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\icudt.dll
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\avcodec-53.dll
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\avformat-53.dll
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\avutil-51.dll
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\libEGL.dll
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\libGLESv2.dll
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\awesomium_process
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\inspector.pak
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\xinput9_1_0.dll
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\bin\Debug\pdf_js.pak
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Administrator\Desktop\backup\秒杀\dbdForMy\秒杀服务\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\jd_login.js
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\JDdbd.exe.config
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\JDdbd.exe
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\JDdbd.pdb
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\Awesomium.Core.dll
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\Awesomium.Windows.Forms.dll
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\CsQuery.dll
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\FluentScheduler.dll
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\HtmlAgilityPack.dll
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\MsieJavaScriptEngine.dll
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\WebDriver.dll
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\Awesomium.Core.xml
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\Awesomium.Windows.Forms.xml
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\CsQuery.xml
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\FluentScheduler.pdb
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\FluentScheduler.xml
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\HtmlAgilityPack.pdb
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\HtmlAgilityPack.xml
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\MsieJavaScriptEngine.xml
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\WebDriver.xml
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\ru-ru\MsieJavaScriptEngine.resources.dll
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\awesomium.dll
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\icudt.dll
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\avcodec-53.dll
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\avformat-53.dll
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\avutil-51.dll
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\libEGL.dll
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\libGLESv2.dll
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\awesomium_process
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\inspector.pak
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\xinput9_1_0.dll
+F:\github\jdforme\WindowsFormsApp1\bin\Debug\pdf_js.pak
+F:\github\jdforme\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+F:\github\jdforme\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\github\jdforme\WindowsFormsApp1\obj\Debug\JDdbd.Properties.Resources.resources
+F:\github\jdforme\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+F:\github\jdforme\WindowsFormsApp1\obj\Debug\JDdbd.exe
+F:\github\jdforme\WindowsFormsApp1\obj\Debug\JDdbd.pdb

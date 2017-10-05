@@ -1,0 +1,99 @@
+[0520/165054:INFO:(0)] WebCore is now online.
+[0520/165054:INFO:(0)] Running Awesomium 1.7.5.1
+[0520/165101:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: 调用方法时发生错误。  目标线程不再存在。
+   在 System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   在 Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   在 Awesomium.Core.WebCore.ioXQMTP1sf()
+[0520/165118:INFO:(0)] WebCore is now online.
+[0520/165118:INFO:(0)] Running Awesomium 1.7.5.1
+[0520/165127:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0520/165127:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: 调用方法时发生错误。  目标线程不再存在。
+   在 System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   在 Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   在 Awesomium.Core.WebCore.ioXQMTP1sf()
+[0520/165354:INFO:(0)] WebCore is now online.
+[0520/165354:INFO:(0)] Running Awesomium 1.7.5.1
+[0520/165408:INFO:(0)] WebCore is now online.
+[0520/165408:INFO:(0)] Running Awesomium 1.7.5.1
+[0520/165506:INFO:(0)] WebCore is now online.
+[0520/165506:INFO:(0)] Running Awesomium 1.7.5.1
+[0520/165527:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0520/172110:INFO:(0)] WebCore is now online.
+[0520/172110:INFO:(0)] Running Awesomium 1.7.5.1
+[0520/172216:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0520/172243:INFO:(0)] WebCore is now online.
+[0520/172243:INFO:(0)] Running Awesomium 1.7.5.1
+[0520/172306:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server passport.jd.com:443 failed; NSS error code -5990, net_error -7
+[0520/212159:INFO:(0)] WebCore is now online.
+[0520/212159:INFO:(0)] Running Awesomium 1.7.5.1
+[0520/212213:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0520/212352:INFO:(0)] WebCore is now online.
+[0520/212352:INFO:(0)] Running Awesomium 1.7.5.1
+[0520/212812:INFO:(0)] WebCore is now online.
+[0520/212812:INFO:(0)] Running Awesomium 1.7.5.1
+[0520/212830:INFO:(0)] WebCore is now online.
+[0520/212830:INFO:(0)] Running Awesomium 1.7.5.1
+[0520/212847:INFO:(0)] WebCore is now online.
+[0520/212847:INFO:(0)] Running Awesomium 1.7.5.1
+[0520/212906:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server passport.jd.com:443 failed; NSS error code -5990, net_error -7
+[0520/213055:INFO:(0)] WebCore is now online.
+[0520/213055:INFO:(0)] Running Awesomium 1.7.5.1
+[0520/213115:INFO:(0)] WebCore is now online.
+[0520/213115:INFO:(0)] Running Awesomium 1.7.5.1
+[0520/213132:WARNING:Awesomium.NET(0)] System.InvalidOperationException: Cannot execute Javascript on the page, before the DOM is ready. Wait for the DocumentReady event before executing your Javascript.
+   在 Awesomium.Windows.Forms.WebControl.ExecuteJavascript(String script, String frameXpath)
+   在 Awesomium.Windows.Forms.WebControl.ExecuteJavascript(String script)
+   在 WindowsFormsApp1.Form1.WebControl1_DocumentReady(Object sender, DocumentReadyEventArgs e) 位置 C:\Users\Administrator\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:行号 27
+   在 Awesomium.Windows.Forms.WebControl.mSiUOYg3ZII4lVafZC(Object , Object , Object )
+   在 Awesomium.Windows.Forms.WebControl.OnDocumentReady(DocumentReadyEventArgs e)
+   在 Awesomium.Core.JavascriptExecutionContext.Execute[T](Action`1 method, T arguments, JIFDelegate jsDelegate)
+[0520/213151:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server passport.jd.com:443 failed; NSS error code -5990, net_error -7
+[0520/213238:INFO:(0)] WebCore is now online.
+[0520/213238:INFO:(0)] Running Awesomium 1.7.5.1
+[0520/213306:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server passport.jd.com:443 failed; NSS error code -5990, net_error -7
+[0520/213329:INFO:(0)] WebCore is now online.
+[0520/213329:INFO:(0)] Running Awesomium 1.7.5.1
+[0520/214242:INFO:(0)] WebCore is now online.
+[0520/214242:INFO:(0)] Running Awesomium 1.7.5.1
+[0520/215626:INFO:(0)] WebCore is now online.
+[0520/215626:INFO:(0)] Running Awesomium 1.7.5.1
+[0520/215649:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server passport.jd.com:443 failed; NSS error code -5990, net_error -7
+[0520/215708:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server passport.jd.com:443 failed; NSS error code -5990, net_error -7
+[0520/215958:INFO:(0)] WebCore is now online.
+[0520/215958:INFO:(0)] Running Awesomium 1.7.5.1
+[0520/220023:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server passport.jd.com:443 failed; NSS error code -5990, net_error -7
+[0520/224314:INFO:(0)] WebCore is now online.
+[0520/224314:INFO:(0)] Running Awesomium 1.7.5.1
+[0520/224329:INFO:(0)] WebCore is now online.
+[0520/224329:INFO:(0)] Running Awesomium 1.7.5.1
+[0520/233351:INFO:(0)] WebCore is now online.
+[0520/233351:INFO:(0)] Running Awesomium 1.7.5.1
+[0520/233411:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server passport.jd.com:443 failed; NSS error code -5990, net_error -7
+[0520/233734:INFO:(0)] WebCore is now online.
+[0520/233734:INFO:(0)] Running Awesomium 1.7.5.1
+[0520/234353:INFO:(0)] WebCore is now online.
+[0520/234353:INFO:(0)] Running Awesomium 1.7.5.1
+[0520/234416:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server passport.jd.com:443 failed; NSS error code -5990, net_error -7
+[0520/234454:INFO:(0)] WebCore is now online.
+[0520/234454:INFO:(0)] Running Awesomium 1.7.5.1
+[0520/234514:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server passport.jd.com:443 failed; NSS error code -5990, net_error -7
+[0520/234556:INFO:(0)] WebCore is now online.
+[0520/234556:INFO:(0)] Running Awesomium 1.7.5.1
+[0520/234617:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server passport.jd.com:443 failed; NSS error code -5990, net_error -7
+[0520/234652:INFO:(0)] WebCore is now online.
+[0520/234652:INFO:(0)] Running Awesomium 1.7.5.1
+[0520/234716:INFO:(0)] WebCore is now online.
+[0520/234716:INFO:(0)] Running Awesomium 1.7.5.1
+[0520/234738:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server passport.jd.com:443 failed; NSS error code -5990, net_error -7
+[0520/234801:INFO:(0)] WebCore is now online.
+[0520/234801:INFO:(0)] Running Awesomium 1.7.5.1
+[0520/234814:INFO:(0)] WebCore is now online.
+[0520/234814:INFO:(0)] Running Awesomium 1.7.5.1
+[0520/235105:INFO:(0)] WebCore is now online.
+[0520/235105:INFO:(0)] Running Awesomium 1.7.5.1
+[0520/235148:INFO:(0)] WebCore is now online.
+[0520/235148:INFO:(0)] Running Awesomium 1.7.5.1
+[0520/235510:INFO:(0)] WebCore is now online.
+[0520/235510:INFO:(0)] Running Awesomium 1.7.5.1
+[0522/154550:INFO:(0)] WebCore is now online.
+[0522/154550:INFO:(0)] Running Awesomium 1.7.5.1
